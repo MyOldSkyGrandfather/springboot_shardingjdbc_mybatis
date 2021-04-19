@@ -7,7 +7,7 @@ package com.example.demo.mapper.domain;
 /**
  * (与数据库表字段一一对应的实体类,公有字段继承至父类)
  *
- * @author Lutong Sun
+ * @author 今天例外
  * @version 1.0.0
  * @date 2021-04-07
  */

@@ -7,14 +7,11 @@ package com.example.demo.mapper;
 
 import com.example.demo.mapper.domain.OrderDomain;
 import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Param;
-
-import java.util.List;
 
 /**
  * Mapper接口
  *
- * @author Lutong Sun
+ * @author 今天例外
  * @version 1.0.0
  * @date 2021-04-07
  */
